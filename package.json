@@ -1,0 +1,28 @@
+{
+  "name": "kraken-devtools-jsx",
+  "version": "0.0.1",
+  "description": "jsx plugin for kraken-devtools",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/samsel/kraken-devtools-jsx.git"
+  },
+  "keywords": [
+    "kraken",
+    "devtools",
+    "jsx",
+    "react"
+  ],
+  "author": "Sam Selvanathan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/samsel/kraken-devtools-jsx/issues"
+  },
+  "homepage": "https://github.com/samsel/kraken-devtools-jsx",
+  "dependencies": {
+    "react-tools": "^0.12.2"
+  }
+}
