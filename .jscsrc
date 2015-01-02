@@ -1,6 +1,6 @@
 {
 	"excludeFiles": ["node_modules/**"],
 	"preset": "airbnb",
-	"validateIndentation": "\t",
+	"validateIndentation": 2,
 	"requireMultipleVarDecl": null
 }
